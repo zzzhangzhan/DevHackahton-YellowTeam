@@ -1,4 +1,4 @@
-# DevHackahton-YellowTeam
+# DevHackahton-YellowTeam Assets
 
 In this repository you will find 10 made up articles and 20 made up products for Yellow Team's project.
 
