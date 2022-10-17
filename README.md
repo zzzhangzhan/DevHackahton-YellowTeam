@@ -8,7 +8,7 @@ In this repository you will find 10 made up articles and 20 made up products for
   * a subtitle
   * body text
   * a cover image
-  * a few other images as the in-article pcitures.
+  * a few other images as the in-article pictures
 
 * Each product has
   * a product name
