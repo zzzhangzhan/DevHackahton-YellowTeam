@@ -11,7 +11,7 @@ In this repository you will find 10 made up articles and 20 made up products for
   * a few other images as the in-article pictures
 
 * Each product has
-  * a product name
+  * product name
   * price
   * a product photo
 
