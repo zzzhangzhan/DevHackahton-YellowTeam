@@ -1,6 +1,6 @@
 # DevHackahton-YellowTeam Assets
 
-In this repository you will find 10 made up articles and 20 made up products for Yellow Team's project.
+In this repository you will find 10 made up articles and 10 made up products for Yellow Team's project.
 
 * Each arcticle has
   * a topic that the article belongs to
